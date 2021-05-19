@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\C# Intermediate Programming\LoopProblems\bin\Debug\LoopProblems.exe.config
+E:\Visual Studio Projects\C# Intermediate Programming\LoopProblems\bin\Debug\LoopProblems.exe
+E:\Visual Studio Projects\C# Intermediate Programming\LoopProblems\bin\Debug\LoopProblems.pdb
+E:\Visual Studio Projects\C# Intermediate Programming\LoopProblems\obj\Debug\LoopProblems.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# Intermediate Programming\LoopProblems\obj\Debug\LoopProblems.Form1.resources
+E:\Visual Studio Projects\C# Intermediate Programming\LoopProblems\obj\Debug\LoopProblems.Properties.Resources.resources
+E:\Visual Studio Projects\C# Intermediate Programming\LoopProblems\obj\Debug\LoopProblems.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C# Intermediate Programming\LoopProblems\obj\Debug\LoopProblems.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# Intermediate Programming\LoopProblems\obj\Debug\LoopProblems.exe
+E:\Visual Studio Projects\C# Intermediate Programming\LoopProblems\obj\Debug\LoopProblems.pdb
